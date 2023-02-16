@@ -154,7 +154,7 @@ class Game extends React.Component {
 }
 
 
-// ========================================
+/* root dom에 렌더링 하기  */
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<Game />);
