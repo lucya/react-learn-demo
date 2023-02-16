@@ -1,0 +1,3 @@
+[submodule "tic-tac-toe-game"]
+	path = tic-tac-toe-game
+	url = https://github.com/lucya/react-learn-demo.git
