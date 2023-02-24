@@ -22,4 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# except project
 /react-radio-group-demo
+/styling-with-sass
