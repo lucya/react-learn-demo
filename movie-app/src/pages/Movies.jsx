@@ -2,7 +2,7 @@ import React from 'react';
 import { dummy } from '../movieDummy.js';
 import Movie from '../components/Movie';
 
-export default function Moviess() {
+export default function Movies() {
   return (
     <div>
       <div className='movies-container'>
